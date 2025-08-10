@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+h2[class]{
+    font-weight: 100;
+}
+#red
+{
+    color:red
+}
+#blue   {
+    color:blue
+}
+#orange{
+    color:orange
+}
+#green{
+    color:green
+}
+#yellow{
+    color:yellow
+}
